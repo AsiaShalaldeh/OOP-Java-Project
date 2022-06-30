@@ -1,0 +1,3350 @@
+[ 02/05/2022 13:54:27 ] The Dough Has Been Mixed
+
+[ 02/05/2022 13:54:27 ] Dough Is Poured
+
+[ 02/05/2022 13:54:27 ] Toppings Are Added
+
+[ 02/05/2022 13:54:27 ] Pizza Is Baked
+
+[ 02/05/2022 13:54:27 ] Order 1 Is Ready
+
+[ 02/05/2022 13:55:58 ] The Dough Has Been Mixed
+
+[ 02/05/2022 13:55:58 ] Dough Is Poured
+
+[ 02/05/2022 13:55:58 ] Toppings Are Added
+
+[ 02/05/2022 13:55:58 ] Pizza Is Baked
+
+[ 02/05/2022 13:55:58 ] Order 1 Is Ready
+
+[ 02/05/2022 14:03:38 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:03:38 ] Dough Is Poured
+
+[ 02/05/2022 14:03:38 ] Toppings Are Added
+
+[ 02/05/2022 14:03:38 ] Pizza Is Baked
+
+[ 02/05/2022 14:03:38 ] Order 1 Is Ready
+
+[ 02/05/2022 14:08:14 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:08:14 ] Dough Is Poured
+
+[ 02/05/2022 14:08:14 ] Toppings Are Added
+
+[ 02/05/2022 14:08:14 ] Pizza Is Baked
+
+[ 02/05/2022 14:08:14 ] Order 1 Is Ready
+
+[ 02/05/2022 14:11:25 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:11:25 ] Dough Is Poured
+
+[ 02/05/2022 14:11:25 ] Toppings Are Added
+
+[ 02/05/2022 14:11:25 ] Pizza Is Baked
+
+[ 02/05/2022 14:11:25 ] Order 1 Is Ready
+
+[ 02/05/2022 14:14:55 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:14:55 ] Dough Is Poured
+
+[ 02/05/2022 14:14:55 ] Toppings Are Added
+
+[ 02/05/2022 14:14:55 ] Pizza Is Baked
+
+[ 02/05/2022 14:14:55 ] Order 1 Is Ready
+
+[ 02/05/2022 14:15:56 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:15:56 ] Dough Is Poured
+
+[ 02/05/2022 14:15:56 ] Toppings Are Added
+
+[ 02/05/2022 14:15:56 ] Pizza Is Baked
+
+[ 02/05/2022 14:15:56 ] Order 1 Is Ready
+
+[ 02/05/2022 14:17:09 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:17:09 ] Dough Is Poured
+
+[ 02/05/2022 14:17:09 ] Toppings Are Added
+
+[ 02/05/2022 14:17:09 ] Pizza Is Baked
+
+[ 02/05/2022 14:20:00 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:20:00 ] Dough Is Poured
+
+[ 02/05/2022 14:20:00 ] Toppings Are Added
+
+[ 02/05/2022 14:20:00 ] Pizza Is Baked
+
+[ 02/05/2022 14:42:21 ] The Dough Has Been Mixed
+
+[ 02/05/2022 14:42:21 ] Dough Is Poured
+
+[ 02/05/2022 14:42:21 ] Toppings Are Added
+
+[ 02/05/2022 14:42:21 ] Pizza Is Baked
+
+[ 02/05/2022 14:42:21 ] Order 1 Is Ready
+
+[ 02/05/2022 15:02:44 ] The Dough Has Been Mixed
+
+[ 02/05/2022 15:02:44 ] Dough Is Poured
+
+[ 02/05/2022 15:02:44 ] Toppings Are Added
+
+[ 02/05/2022 15:02:44 ] Pizza Is Baked
+
+[ 02/05/2022 15:02:44 ] Order 1 Is Ready
+
+[ 02/05/2022 15:04:56 ] The Dough Has Been Mixed
+
+[ 02/05/2022 15:04:56 ] Dough Is Poured
+
+[ 02/05/2022 15:04:56 ] Toppings Are Added
+
+[ 02/05/2022 15:04:56 ] Pizza Is Baked
+
+[ 02/05/2022 15:04:56 ] Order 1 Is Ready
+
+[ 02/05/2022 15:04:56 ] The Dough Has Been Mixed
+
+[ 02/05/2022 15:04:56 ] Dough Is Poured
+
+[ 02/05/2022 15:04:56 ] Toppings Are Added
+
+[ 02/05/2022 15:04:56 ] Pizza Is Baked
+
+[ 02/05/2022 15:04:56 ] Order 1 Is Ready
+
+[ 02/05/2022 17:07:20 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:07:20 ] Dough Is Poured
+
+[ 02/05/2022 17:07:20 ] Toppings Are Added
+
+[ 02/05/2022 17:07:20 ] Pizza Is Baked
+
+[ 02/05/2022 17:07:20 ] Order 1 Is Ready
+
+[ 02/05/2022 17:07:20 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:07:20 ] Dough Is Poured
+
+[ 02/05/2022 17:07:20 ] Toppings Are Added
+
+[ 02/05/2022 17:07:20 ] Pizza Is Baked
+
+[ 02/05/2022 17:13:32 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:13:32 ] Dough Is Poured
+
+[ 02/05/2022 17:13:32 ] Toppings Are Added
+
+[ 02/05/2022 17:13:32 ] Pizza Is Baked
+
+[ 02/05/2022 17:22:08 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:22:08 ] Dough Is Poured
+
+[ 02/05/2022 17:22:08 ] Toppings Are Added
+
+[ 02/05/2022 17:22:08 ] Pizza Is Baked
+
+[ 02/05/2022 17:22:08 ] Order 1 Is Ready
+
+[ 02/05/2022 17:27:12 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:27:12 ] Dough Is Poured
+
+[ 02/05/2022 17:27:12 ] Toppings Are Added
+
+[ 02/05/2022 17:27:12 ] Pizza Is Baked
+
+[ 02/05/2022 17:27:12 ] Order 1 Is Ready
+
+[ 02/05/2022 17:27:12 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:27:12 ] Dough Is Poured
+
+[ 02/05/2022 17:27:12 ] Toppings Are Added
+
+[ 02/05/2022 17:27:12 ] Pizza Is Baked
+
+[ 02/05/2022 17:27:12 ] Order 2 Is Ready
+
+[ 02/05/2022 17:39:49 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:39:49 ] Dough Is Poured
+
+[ 02/05/2022 17:39:49 ] Toppings Are Added
+
+[ 02/05/2022 17:39:49 ] Pizza Is Baked
+
+[ 02/05/2022 17:39:49 ] Order 1 Is Ready
+
+[ 02/05/2022 17:39:49 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:39:49 ] Dough Is Poured
+
+[ 02/05/2022 17:39:49 ] Toppings Are Added
+
+[ 02/05/2022 17:39:49 ] Pizza Is Baked
+
+[ 02/05/2022 17:39:49 ] Order 2 Is Ready
+
+[ 02/05/2022 17:39:49 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:39:49 ] Dough Is Poured
+
+[ 02/05/2022 17:39:49 ] Toppings Are Added
+
+[ 02/05/2022 17:39:49 ] Pizza Is Baked
+
+[ 02/05/2022 17:39:49 ] Order 3 Is Ready
+
+[ 02/05/2022 17:47:03 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:47:03 ] Dough Is Poured
+
+[ 02/05/2022 17:47:03 ] Toppings Are Added
+
+[ 02/05/2022 17:47:03 ] Pizza Is Baked
+
+[ 02/05/2022 17:47:03 ] Order 1 Is Ready
+
+[ 02/05/2022 17:47:03 ] The Dough Has Been Mixed
+
+[ 02/05/2022 17:47:03 ] Dough Is Poured
+
+[ 02/05/2022 17:47:03 ] Toppings Are Added
+
+[ 02/05/2022 17:47:03 ] Pizza Is Baked
+
+[ 02/05/2022 17:47:03 ] Order 2 Is Ready
+
+[ 02/05/2022 18:40:50 ] Objects Have Been Transferred To File Succcessfully
+
+[ 02/05/2022 18:40:50 ] The Dough Has Been Mixed
+
+[ 02/05/2022 18:40:50 ] Objects Have Been Transferred To File Succcessfully
+
+[ 02/05/2022 18:40:50 ] Dough Is Poured
+
+[ 02/05/2022 18:40:50 ] Toppings Are Added
+
+[ 02/05/2022 18:40:50 ] Objects Have Been Transferred To File Succcessfully
+
+[ 02/05/2022 18:40:50 ] Objects Have Been Transferred To File Succcessfully
+
+[ 02/05/2022 18:40:50 ] Pizza Is Baked
+
+[ 02/05/2022 18:40:50 ] Objects Have Been Transferred To File Succcessfully
+
+[ 02/05/2022 18:40:50 ] Order 1 Is Ready
+
+[ 02/05/2022 21:32:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:32:32 ] The Dough Has Been Mixed
+
+[ 02/05/2022 21:32:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:32:32 ] Dough Is Poured
+
+[ 02/05/2022 21:32:32 ] Toppings Are Added
+
+[ 02/05/2022 21:32:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:32:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:32:32 ] Pizza Is Baked
+
+[ 02/05/2022 21:32:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:33:10 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:33:10 ] The Dough Has Been Mixed
+
+[ 02/05/2022 21:33:10 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:33:10 ] Dough Is Poured
+
+[ 02/05/2022 21:33:10 ] Toppings Are Added
+
+[ 02/05/2022 21:33:10 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:33:10 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:33:10 ] Pizza Is Baked
+
+[ 02/05/2022 21:33:10 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:33:10 ] Order 0 Is Ready
+
+[ 02/05/2022 21:45:33 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:45:33 ] The Dough Has Been Mixed
+
+[ 02/05/2022 21:45:33 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:45:33 ] Dough Is Poured
+
+[ 02/05/2022 21:45:33 ] Toppings Are Added
+
+[ 02/05/2022 21:45:33 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:45:33 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:45:33 ] Pizza Is Baked
+
+[ 02/05/2022 21:45:33 ] Object Has Been Transferred To File Succcessfully
+
+[ 02/05/2022 21:45:33 ] Order 1 Is Ready
+
+[ 03/05/2022 09:12:50 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:12:50 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:12:50 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:12:50 ] Dough Is Poured
+
+[ 03/05/2022 09:12:50 ] Toppings Are Added
+
+[ 03/05/2022 09:12:50 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:12:50 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:12:50 ] Pizza Is Baked
+
+[ 03/05/2022 09:12:50 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:13:29 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:13:29 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:13:29 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:13:29 ] Dough Is Poured
+
+[ 03/05/2022 09:13:29 ] Toppings Are Added
+
+[ 03/05/2022 09:13:29 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:13:29 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:13:29 ] Pizza Is Baked
+
+[ 03/05/2022 09:13:29 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:15:05 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:15:05 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:15:05 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:15:05 ] Dough Is Poured
+
+[ 03/05/2022 09:15:05 ] Toppings Are Added
+
+[ 03/05/2022 09:15:05 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:15:05 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:15:05 ] Pizza Is Baked
+
+[ 03/05/2022 09:15:05 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:15:05 ] Order 1 Is Ready
+
+[ 03/05/2022 09:16:37 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:16:37 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:16:37 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:16:37 ] Dough Is Poured
+
+[ 03/05/2022 09:16:37 ] Toppings Are Added
+
+[ 03/05/2022 09:16:37 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:16:37 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:16:37 ] Pizza Is Baked
+
+[ 03/05/2022 09:16:37 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:17:13 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:17:13 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:17:13 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:17:13 ] Dough Is Poured
+
+[ 03/05/2022 09:17:13 ] Toppings Are Added
+
+[ 03/05/2022 09:17:13 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:17:13 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:17:13 ] Pizza Is Baked
+
+[ 03/05/2022 09:17:13 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:17:13 ] Order 1 Is Ready
+
+[ 03/05/2022 09:28:40 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:28:40 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:28:40 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:28:40 ] Dough Is Poured
+
+[ 03/05/2022 09:28:40 ] Toppings Are Added
+
+[ 03/05/2022 09:28:40 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:28:40 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:28:40 ] Pizza Is Baked
+
+[ 03/05/2022 09:28:40 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:28:40 ] Order 1 Is Ready
+
+[ 03/05/2022 09:30:47 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:30:47 ] The Dough Has Been Mixed
+
+[ 03/05/2022 09:30:47 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:30:47 ] Dough Is Poured
+
+[ 03/05/2022 09:30:47 ] Toppings Are Added
+
+[ 03/05/2022 09:30:47 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:30:47 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:30:47 ] Pizza Is Baked
+
+[ 03/05/2022 09:30:47 ] Object Has Been Transferred To File Succcessfully
+
+[ 03/05/2022 09:30:47 ] Order 1 Is Ready
+
+[ 04/05/2022 10:31:25 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:31:25 ] The Dough Has Been Mixed
+
+[ 04/05/2022 10:31:25 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:31:25 ] Dough Is Poured
+
+[ 04/05/2022 10:31:25 ] Toppings Are Added
+
+[ 04/05/2022 10:31:25 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:31:25 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:31:25 ] Pizza Is Baked
+
+[ 04/05/2022 10:31:25 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:31:25 ] Order 1 Is Ready
+
+[ 04/05/2022 10:34:45 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:34:45 ] The Dough Has Been Mixed
+
+[ 04/05/2022 10:34:45 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:34:45 ] Dough Is Poured
+
+[ 04/05/2022 10:34:45 ] Toppings Are Added
+
+[ 04/05/2022 10:34:45 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:34:45 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:34:45 ] Pizza Is Baked
+
+[ 04/05/2022 10:34:45 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 10:34:45 ] Order 1 Is Ready
+
+[ 04/05/2022 11:05:19 ] Pizza Machine Started 
+
+[ 04/05/2022 11:05:19 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:05:19 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:05:19 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:05:19 ] Dough Is Poured
+
+[ 04/05/2022 11:05:19 ] Toppings Are Added
+
+[ 04/05/2022 11:05:19 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:05:19 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:05:19 ] Pizza Is Baked
+
+[ 04/05/2022 11:05:19 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:05:19 ] Order 1 Is Ready
+
+[ 04/05/2022 11:05:19 ] Communications link failure
+
+
+
+[ 04/05/2022 11:11:32 ] Pizza Machine Started 
+
+[ 04/05/2022 11:11:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:11:32 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:11:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:11:32 ] Dough Is Poured
+
+[ 04/05/2022 11:11:32 ] Toppings Are Added
+
+[ 04/05/2022 11:11:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:11:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:11:32 ] Pizza Is Baked
+
+[ 04/05/2022 11:11:32 ] Object Has Been Transferred To File Succcessfully
+
+[ 04/05/2022 11:11:32 ] Order 1 Is Ready
+
+[ 04/05/2022 11:11:32 ] Data Has Been Transerred To Database Successfully
+
+[ 04/05/2022 11:15:47 ] Pizza Machine Started 
+
+[ 04/05/2022 11:15:47 ] Object Has Been Transferred To File Succcessfully 
+
+[ 04/05/2022 11:15:47 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:15:47 ] Object Has Been Transferred To File Succcessfully 
+
+[ 04/05/2022 11:15:47 ] Dough Is Poured
+
+[ 04/05/2022 11:15:47 ] Toppings Are Added
+
+[ 04/05/2022 11:15:47 ] Object Has Been Transferred To File Succcessfully 
+
+[ 04/05/2022 11:15:47 ] Object Has Been Transferred To File Succcessfully 
+
+[ 04/05/2022 11:15:47 ] Pizza Is Baked
+
+[ 04/05/2022 11:15:47 ] Object Has Been Transferred To File Succcessfully 
+
+[ 04/05/2022 11:15:47 ] Order 1 Is Ready
+
+[ 04/05/2022 11:15:47 ] Data Has Been Transerred To Database Successfully
+
+[ 04/05/2022 11:18:20 ] Pizza Machine Started 
+
+[ 04/05/2022 11:18:20 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer}
+
+[ 04/05/2022 11:18:20 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:18:20 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough}
+
+[ 04/05/2022 11:18:20 ] Dough Is Poured
+
+[ 04/05/2022 11:18:20 ] Toppings Are Added
+
+[ 04/05/2022 11:18:20 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan}
+
+[ 04/05/2022 11:18:20 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven}
+
+[ 04/05/2022 11:18:20 ] Pizza Is Baked
+
+[ 04/05/2022 11:18:20 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza}
+
+[ 04/05/2022 11:18:20 ] Order 1 Is Ready
+
+[ 04/05/2022 11:18:20 ] Data Has Been Transerred To Database Successfully
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 04/05/2022 11:23:56 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 04/05/2022 11:23:56 ] Dough Is Poured
+
+[ 04/05/2022 11:23:56 ] Toppings Are Added
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 04/05/2022 11:23:56 ] Pizza Is Baked
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 04/05/2022 11:23:56 ] Order 1 Is Ready
+
+[ 04/05/2022 11:23:56 ] Data Has Been Transerred To Database Successfully
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 04/05/2022 11:23:56 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 04/05/2022 11:23:56 ] Dough Is Poured
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 04/05/2022 11:23:56 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 04/05/2022 11:23:56 ] Dough Is Poured
+
+[ 04/05/2022 11:23:56 ] Toppings Are Added
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 04/05/2022 11:23:56 ] Pizza Is Baked
+
+[ 04/05/2022 11:23:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 04/05/2022 11:23:56 ] Order 2 Is Ready
+
+[ 04/05/2022 11:23:56 ] Data Has Been Transerred To Database Successfully
+
+[ 04/05/2022 11:27:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 04/05/2022 11:27:25 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:27:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 04/05/2022 11:27:25 ] Dough Is Poured
+
+[ 04/05/2022 11:27:25 ] Toppings Are Added
+
+[ 04/05/2022 11:27:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 04/05/2022 11:27:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 04/05/2022 11:27:25 ] Pizza Is Baked
+
+[ 04/05/2022 11:27:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 04/05/2022 11:27:25 ] Order 1 Is Ready
+
+[ 04/05/2022 11:27:25 ] Data Has Been Transerred To Database Successfully
+
+[ 04/05/2022 11:30:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 04/05/2022 11:30:25 ] The Dough Has Been Mixed
+
+[ 04/05/2022 11:30:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 04/05/2022 11:30:25 ] Dough Is Poured
+
+[ 04/05/2022 11:30:25 ] Toppings Are Added
+
+[ 04/05/2022 11:30:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 04/05/2022 11:30:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 04/05/2022 11:30:25 ] Pizza Is Baked
+
+[ 04/05/2022 11:30:25 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 04/05/2022 11:30:25 ] Order 1 Is Ready
+
+[ 04/05/2022 11:30:25 ] Data Has Been Transerred To Database Successfully
+
+[ 09/05/2022 18:11:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:11:49 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:11:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:11:49 ] Dough Is Poured
+
+[ 09/05/2022 18:11:49 ] Toppings Are Added
+
+[ 09/05/2022 18:11:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:11:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:11:49 ] Pizza Is Baked
+
+[ 09/05/2022 18:11:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:11:49 ] Order 1 Is Ready
+
+[ 09/05/2022 18:11:49 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:14:35 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:14:35 ] Dough Is Poured
+
+[ 09/05/2022 18:14:35 ] Toppings Are Added
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:14:35 ] Pizza Is Baked
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:14:35 ] Order 1 Is Ready
+
+[ 09/05/2022 18:14:35 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:14:35 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:14:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:14:35 ] Dough Is Poured
+
+[ 09/05/2022 18:16:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:16:01 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:16:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:16:01 ] Dough Is Poured
+
+[ 09/05/2022 18:16:01 ] Toppings Are Added
+
+[ 09/05/2022 18:16:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:16:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:16:01 ] Pizza Is Baked
+
+[ 09/05/2022 18:16:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:16:01 ] Order 1 Is Ready
+
+[ 09/05/2022 18:16:01 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:16:30 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:16:30 ] Dough Is Poured
+
+[ 09/05/2022 18:16:30 ] Toppings Are Added
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:16:30 ] Pizza Is Baked
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:16:30 ] Order 1 Is Ready
+
+[ 09/05/2022 18:16:30 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:16:30 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:16:30 ] Dough Is Poured
+
+[ 09/05/2022 18:16:30 ] Toppings Are Added
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:16:30 ] Pizza Is Baked
+
+[ 09/05/2022 18:16:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:16:30 ] Order 2 Is Ready
+
+[ 09/05/2022 18:16:30 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:18:34 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:18:34 ] Dough Is Poured
+
+[ 09/05/2022 18:18:34 ] Toppings Are Added
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:18:34 ] Pizza Is Baked
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:18:34 ] Order 1 Is Ready
+
+[ 09/05/2022 18:18:34 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:18:34 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:18:34 ] Dough Is Poured
+
+[ 09/05/2022 18:18:34 ] Toppings Are Added
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:18:34 ] Pizza Is Baked
+
+[ 09/05/2022 18:18:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:18:34 ] Order 2 Is Ready
+
+[ 09/05/2022 18:18:34 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 1 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 2 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 3 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 4 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 5 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 6 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 7 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 8 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 9 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 10 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:21:36 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:21:36 ] Dough Is Poured
+
+[ 09/05/2022 18:21:36 ] Toppings Are Added
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:21:36 ] Pizza Is Baked
+
+[ 09/05/2022 18:21:36 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:21:36 ] Order 11 Is Ready
+
+[ 09/05/2022 18:21:36 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:26:42 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:26:42 ] Dough Is Poured
+
+[ 09/05/2022 18:26:42 ] Toppings Are Added
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:26:42 ] Pizza Is Baked
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:26:42 ] Order 1 Is Ready
+
+[ 09/05/2022 18:26:42 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:26:42 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:26:42 ] Dough Is Poured
+
+[ 09/05/2022 18:26:42 ] Toppings Are Added
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:26:42 ] Pizza Is Baked
+
+[ 09/05/2022 18:26:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:26:42 ] Order 2 Is Ready
+
+[ 09/05/2022 18:26:42 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 09/05/2022 18:40:06 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 09/05/2022 18:40:06 ] The Dough Has Been Mixed
+
+[ 09/05/2022 18:40:06 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 09/05/2022 18:40:06 ] Dough Is Poured
+
+[ 09/05/2022 18:40:06 ] Toppings Are Added
+
+[ 09/05/2022 18:40:06 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 09/05/2022 18:40:06 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 09/05/2022 18:40:06 ] Pizza Is Baked
+
+[ 09/05/2022 18:40:06 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 09/05/2022 18:40:06 ] Order 1 Is Ready
+
+[ 09/05/2022 18:40:06 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 10/05/2022 10:21:22 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 10/05/2022 10:21:22 ] The Dough Has Been Mixed
+
+[ 10/05/2022 10:21:22 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 10/05/2022 10:21:22 ] Dough Is Poured
+
+[ 10/05/2022 10:21:22 ] Toppings Are Added
+
+[ 10/05/2022 10:21:22 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 10/05/2022 10:21:22 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 10/05/2022 10:21:22 ] Pizza Is Baked
+
+[ 10/05/2022 10:21:22 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 10/05/2022 10:21:22 ] Order 1 Is Ready
+
+[ 10/05/2022 10:21:22 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 12/05/2022 10:56:43 ] Pizza Machine Started 
+
+[ 12/05/2022 10:56:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 10:56:43 ] The Dough Has Been Mixed
+
+[ 12/05/2022 10:56:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 10:56:43 ] Dough Is Poured
+
+[ 12/05/2022 10:56:43 ] Toppings Are Added
+
+[ 12/05/2022 10:56:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 10:56:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 10:56:43 ] Pizza Is Baked
+
+[ 12/05/2022 10:56:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 10:56:43 ] Order 1 Is Ready
+
+[ 12/05/2022 10:56:43 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 12/05/2022 11:04:07 ] Pizza Machine Started 
+
+[ 12/05/2022 11:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:04:07 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:04:07 ] Dough Is Poured
+
+[ 12/05/2022 11:04:07 ] Toppings Are Added
+
+[ 12/05/2022 11:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:04:07 ] Pizza Is Baked
+
+[ 12/05/2022 11:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:04:07 ] Order 1 Is Ready
+
+[ 12/05/2022 11:04:07 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:25:02 ] Pizza Machine Started 
+
+[ 12/05/2022 11:25:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:25:02 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:25:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:25:02 ] Dough Is Poured
+
+[ 12/05/2022 11:25:02 ] Toppings Are Added
+
+[ 12/05/2022 11:25:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:25:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:25:02 ] Pizza Is Baked
+
+[ 12/05/2022 11:25:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:25:02 ] Order 1 Is Ready
+
+[ 12/05/2022 11:25:02 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:27:34 ] Pizza Machine Started 
+
+[ 12/05/2022 11:28:53 ] Pizza Machine Started 
+
+[ 12/05/2022 11:28:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:28:53 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:28:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:28:53 ] Dough Is Poured
+
+[ 12/05/2022 11:28:53 ] Toppings Are Added
+
+[ 12/05/2022 11:28:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:28:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:28:53 ] Pizza Is Baked
+
+[ 12/05/2022 11:28:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:28:53 ] Order 1 Is Ready
+
+[ 12/05/2022 11:28:53 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:39:49 ] Pizza Machine Started 
+
+[ 12/05/2022 11:39:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:39:49 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:39:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:39:49 ] Dough Is Poured
+
+[ 12/05/2022 11:39:49 ] Toppings Are Added
+
+[ 12/05/2022 11:39:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:39:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:39:49 ] Pizza Is Baked
+
+[ 12/05/2022 11:39:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:39:49 ] Order 1 Is Ready
+
+[ 12/05/2022 11:39:49 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:41:39 ] Pizza Machine Started 
+
+[ 12/05/2022 11:41:39 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:41:39 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:41:39 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:41:39 ] Dough Is Poured
+
+[ 12/05/2022 11:41:39 ] Toppings Are Added
+
+[ 12/05/2022 11:41:39 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:41:39 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:41:39 ] Pizza Is Baked
+
+[ 12/05/2022 11:41:39 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:41:39 ] Order 1 Is Ready
+
+[ 12/05/2022 11:41:39 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:44:00 ] Pizza Machine Started 
+
+[ 12/05/2022 11:44:00 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:44:00 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:44:00 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:44:00 ] Dough Is Poured
+
+[ 12/05/2022 11:44:00 ] Toppings Are Added
+
+[ 12/05/2022 11:44:00 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:44:00 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:44:00 ] Pizza Is Baked
+
+[ 12/05/2022 11:44:00 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:44:00 ] Order 1 Is Ready
+
+[ 12/05/2022 11:44:00 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:47:56 ] Pizza Machine Started 
+
+[ 12/05/2022 11:47:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:47:56 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:47:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:47:56 ] Dough Is Poured
+
+[ 12/05/2022 11:47:56 ] Toppings Are Added
+
+[ 12/05/2022 11:47:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:47:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:47:56 ] Pizza Is Baked
+
+[ 12/05/2022 11:47:56 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:47:56 ] Order 1 Is Ready
+
+[ 12/05/2022 11:47:56 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 11:59:47 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 11:59:47 ] The Dough Has Been Mixed
+
+[ 12/05/2022 11:59:47 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 11:59:47 ] Dough Is Poured
+
+[ 12/05/2022 11:59:47 ] Toppings Are Added
+
+[ 12/05/2022 11:59:47 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 11:59:47 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 11:59:47 ] Pizza Is Baked
+
+[ 12/05/2022 11:59:47 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 11:59:47 ] Order 1 Is Ready
+
+[ 12/05/2022 11:59:47 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 12:01:28 ] Pizza Machine Started 
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 12:01:28 ] The Dough Has Been Mixed
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 12:01:28 ] Dough Is Poured
+
+[ 12/05/2022 12:01:28 ] Toppings Are Added
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 12:01:28 ] Pizza Is Baked
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 12:01:28 ] Order 1 Is Ready
+
+[ 12/05/2022 12:01:28 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 12:01:28 ] The Dough Has Been Mixed
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 12:01:28 ] Dough Is Poured
+
+[ 12/05/2022 12:01:28 ] Toppings Are Added
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 12:01:28 ] Pizza Is Baked
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 12:01:28 ] Order 2 Is Ready
+
+[ 12/05/2022 12:01:28 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 12:01:28 ] The Dough Has Been Mixed
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 12:01:28 ] Dough Is Poured
+
+[ 12/05/2022 12:01:28 ] Toppings Are Added
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 12:01:28 ] Pizza Is Baked
+
+[ 12/05/2022 12:01:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 12:01:28 ] Order 3 Is Ready
+
+[ 12/05/2022 12:01:28 ] Data Has Been Transerred To Database Successfully
+
+[ 12/05/2022 12:07:57 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 12/05/2022 12:07:57 ] The Dough Has Been Mixed
+
+[ 12/05/2022 12:07:57 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 12/05/2022 12:07:57 ] Dough Is Poured
+
+[ 12/05/2022 12:07:57 ] Toppings Are Added
+
+[ 12/05/2022 12:07:57 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 12/05/2022 12:07:57 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 12/05/2022 12:07:57 ] Pizza Is Baked
+
+[ 12/05/2022 12:07:57 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 12/05/2022 12:07:57 ] Order 1 Is Ready
+
+[ 12/05/2022 12:07:57 ] Data Has Been Transerred To Database Successfully
+
+[ 13/05/2022 19:22:24 ] Pizza Machine Started 
+
+[ 13/05/2022 19:22:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 19:22:24 ] The Dough Has Been Mixed
+
+[ 13/05/2022 19:22:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 19:22:24 ] Dough Is Poured
+
+[ 13/05/2022 19:22:24 ] Toppings Are Added
+
+[ 13/05/2022 19:22:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 19:22:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 19:22:24 ] Pizza Is Baked
+
+[ 13/05/2022 19:22:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 19:22:24 ] Order 1 Is Ready
+
+[ 13/05/2022 19:22:24 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 19:32:28 ] Pizza Machine Started 
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 19:32:28 ] The Dough Has Been Mixed
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 19:32:28 ] Dough Is Poured
+
+[ 13/05/2022 19:32:28 ] Toppings Are Added
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 19:32:28 ] Pizza Is Baked
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 19:32:28 ] Order 1 Is Ready
+
+[ 13/05/2022 19:32:28 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 19:32:28 ] The Dough Has Been Mixed
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 19:32:28 ] Dough Is Poured
+
+[ 13/05/2022 19:32:28 ] Toppings Are Added
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 19:32:28 ] Pizza Is Baked
+
+[ 13/05/2022 19:32:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 19:32:28 ] Order 2 Is Ready
+
+[ 13/05/2022 19:32:28 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 19:37:07 ] Pizza Machine Started 
+
+[ 13/05/2022 19:37:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 19:37:07 ] The Dough Has Been Mixed
+
+[ 13/05/2022 19:37:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 19:37:07 ] Dough Is Poured
+
+[ 13/05/2022 19:37:07 ] Toppings Are Added
+
+[ 13/05/2022 19:37:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 19:37:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 19:37:07 ] Pizza Is Baked
+
+[ 13/05/2022 19:37:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 19:37:07 ] Enter Valid Number Of Slices , Try Again.
+
+[ 13/05/2022 19:37:07 ] Enter Valid Number Of Slices , Try Again.
+
+[ 13/05/2022 19:37:07 ] Order 1 Is Ready
+
+[ 13/05/2022 19:37:07 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 22:27:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 22:27:38 ] The Dough Has Been Mixed
+
+[ 13/05/2022 22:27:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 22:27:38 ] Dough Is Poured
+
+[ 13/05/2022 22:27:38 ] Toppings Are Added
+
+[ 13/05/2022 22:27:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 22:27:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 22:27:38 ] Pizza Is Baked
+
+[ 13/05/2022 22:27:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 22:27:38 ] Order 1 Is Ready
+
+[ 13/05/2022 22:27:38 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 22:29:19 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 22:29:19 ] The Dough Has Been Mixed
+
+[ 13/05/2022 22:29:19 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 22:29:19 ] Dough Is Poured
+
+[ 13/05/2022 22:29:19 ] Toppings Are Added
+
+[ 13/05/2022 22:29:19 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 22:29:19 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 22:29:19 ] Pizza Is Baked
+
+[ 13/05/2022 22:29:19 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 22:29:19 ] Order 1 Is Ready
+
+[ 13/05/2022 22:29:19 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 22:30:50 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 22:30:50 ] The Dough Has Been Mixed
+
+[ 13/05/2022 22:30:50 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 22:30:50 ] Dough Is Poured
+
+[ 13/05/2022 22:30:50 ] Toppings Are Added
+
+[ 13/05/2022 22:30:50 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 22:30:50 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 22:30:50 ] Pizza Is Baked
+
+[ 13/05/2022 22:30:50 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 22:30:50 ] Order 1 Is Ready
+
+[ 13/05/2022 22:30:50 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:44:11 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:44:11 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:44:11 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:44:11 ] Dough Is Poured
+
+[ 13/05/2022 23:44:11 ] Toppings Are Added
+
+[ 13/05/2022 23:44:11 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:44:11 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:44:11 ] Pizza Is Baked
+
+[ 13/05/2022 23:44:11 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:44:11 ] Order 1 Is Ready
+
+[ 13/05/2022 23:44:11 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:45:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:45:49 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:45:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:45:49 ] Dough Is Poured
+
+[ 13/05/2022 23:45:49 ] Toppings Are Added
+
+[ 13/05/2022 23:45:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:45:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:45:49 ] Pizza Is Baked
+
+[ 13/05/2022 23:45:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:45:49 ] Order 1 Is Ready
+
+[ 13/05/2022 23:45:49 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:46:54 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:46:54 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:46:54 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:46:54 ] Dough Is Poured
+
+[ 13/05/2022 23:46:54 ] Toppings Are Added
+
+[ 13/05/2022 23:46:54 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:46:54 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:46:54 ] Pizza Is Baked
+
+[ 13/05/2022 23:46:54 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:46:54 ] Order 1 Is Ready
+
+[ 13/05/2022 23:46:54 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:48:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:48:42 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:48:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:48:42 ] Dough Is Poured
+
+[ 13/05/2022 23:48:42 ] Toppings Are Added
+
+[ 13/05/2022 23:48:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:48:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:48:42 ] Pizza Is Baked
+
+[ 13/05/2022 23:48:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:48:42 ] Order 1 Is Ready
+
+[ 13/05/2022 23:48:42 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:50:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:50:42 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:50:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:50:42 ] Dough Is Poured
+
+[ 13/05/2022 23:50:42 ] Toppings Are Added
+
+[ 13/05/2022 23:50:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:50:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:50:42 ] Pizza Is Baked
+
+[ 13/05/2022 23:50:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:50:42 ] Order 1 Is Ready
+
+[ 13/05/2022 23:50:42 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:53:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:53:30 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:53:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:53:30 ] Dough Is Poured
+
+[ 13/05/2022 23:53:30 ] Toppings Are Added
+
+[ 13/05/2022 23:53:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:53:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:53:30 ] Pizza Is Baked
+
+[ 13/05/2022 23:53:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:53:30 ] Order 1 Is Ready
+
+[ 13/05/2022 23:53:30 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 13/05/2022 23:55:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 13/05/2022 23:55:03 ] The Dough Has Been Mixed
+
+[ 13/05/2022 23:55:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 13/05/2022 23:55:03 ] Dough Is Poured
+
+[ 13/05/2022 23:55:03 ] Toppings Are Added
+
+[ 13/05/2022 23:55:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 13/05/2022 23:55:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 13/05/2022 23:55:03 ] Pizza Is Baked
+
+[ 13/05/2022 23:55:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 13/05/2022 23:55:03 ] Order 1 Is Ready
+
+[ 13/05/2022 23:55:03 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 21:27:32 ] Pizza Machine Started 
+
+[ 14/05/2022 21:27:32 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 21:27:32 ] The Dough Has Been Mixed
+
+[ 14/05/2022 21:27:32 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 21:27:32 ] Dough Is Poured
+
+[ 14/05/2022 21:27:32 ] Toppings Are Added
+
+[ 14/05/2022 21:27:32 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 21:27:32 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 21:27:32 ] Pizza Is Baked
+
+[ 14/05/2022 21:27:32 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 21:27:32 ] Order 1 Is Ready
+
+[ 14/05/2022 21:27:32 ] Communications link failure
+
+The last packet sent successfully to the server was ٠ milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 21:41:09 ] Pizza Machine Started 
+
+[ 14/05/2022 21:41:09 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 21:41:09 ] The Dough Has Been Mixed
+
+[ 14/05/2022 21:41:09 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 21:41:09 ] Dough Is Poured
+
+[ 14/05/2022 21:41:09 ] Toppings Are Added
+
+[ 14/05/2022 21:41:09 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 21:41:09 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 21:41:09 ] Pizza Is Baked
+
+[ 14/05/2022 21:41:09 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 21:41:09 ] Order 1 Is Ready
+
+[ 14/05/2022 21:41:09 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 21:48:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 21:48:55 ] The Dough Has Been Mixed
+
+[ 14/05/2022 21:48:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 21:48:55 ] Dough Is Poured
+
+[ 14/05/2022 21:48:55 ] Toppings Are Added
+
+[ 14/05/2022 21:48:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 21:48:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 21:48:55 ] Pizza Is Baked
+
+[ 14/05/2022 21:48:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 21:48:55 ] Order 1 Is Ready
+
+[ 14/05/2022 21:48:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:11:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:11:34 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:11:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:11:34 ] Dough Is Poured
+
+[ 14/05/2022 22:11:34 ] Toppings Are Added
+
+[ 14/05/2022 22:11:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:11:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:11:34 ] Pizza Is Baked
+
+[ 14/05/2022 22:11:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:11:34 ] Order 1 Is Ready
+
+[ 14/05/2022 22:11:34 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:13:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:13:23 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:13:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:13:23 ] Dough Is Poured
+
+[ 14/05/2022 22:13:23 ] Toppings Are Added
+
+[ 14/05/2022 22:13:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:13:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:13:23 ] Pizza Is Baked
+
+[ 14/05/2022 22:13:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:13:23 ] Order 1 Is Ready
+
+[ 14/05/2022 22:13:23 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:15:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:15:38 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:15:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:15:38 ] Dough Is Poured
+
+[ 14/05/2022 22:15:38 ] Toppings Are Added
+
+[ 14/05/2022 22:15:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:15:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:15:38 ] Pizza Is Baked
+
+[ 14/05/2022 22:15:38 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:15:38 ] Order 1 Is Ready
+
+[ 14/05/2022 22:15:38 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:16:58 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:16:58 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:16:58 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:16:58 ] Dough Is Poured
+
+[ 14/05/2022 22:16:58 ] Toppings Are Added
+
+[ 14/05/2022 22:16:58 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:16:58 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:16:58 ] Pizza Is Baked
+
+[ 14/05/2022 22:16:58 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:16:58 ] Order 1 Is Ready
+
+[ 14/05/2022 22:16:58 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:20:40 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:20:40 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:20:40 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:20:40 ] Dough Is Poured
+
+[ 14/05/2022 22:20:40 ] Toppings Are Added
+
+[ 14/05/2022 22:20:40 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:20:40 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:20:40 ] Pizza Is Baked
+
+[ 14/05/2022 22:20:40 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:20:40 ] Order 1 Is Ready
+
+[ 14/05/2022 22:20:40 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:26:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:26:03 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:26:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:26:03 ] Dough Is Poured
+
+[ 14/05/2022 22:26:03 ] Toppings Are Added
+
+[ 14/05/2022 22:26:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:26:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:26:03 ] Pizza Is Baked
+
+[ 14/05/2022 22:26:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:26:03 ] Order 1 Is Ready
+
+[ 14/05/2022 22:26:03 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:33:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:33:34 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:33:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:33:34 ] Dough Is Poured
+
+[ 14/05/2022 22:33:34 ] Toppings Are Added
+
+[ 14/05/2022 22:33:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:33:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:33:34 ] Pizza Is Baked
+
+[ 14/05/2022 22:33:34 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:33:34 ] Order 1 Is Ready
+
+[ 14/05/2022 22:33:34 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:43:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:43:02 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:43:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:43:02 ] Dough Is Poured
+
+[ 14/05/2022 22:43:02 ] Toppings Are Added
+
+[ 14/05/2022 22:43:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:43:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:43:02 ] Pizza Is Baked
+
+[ 14/05/2022 22:43:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:43:02 ] Order 1 Is Ready
+
+[ 14/05/2022 22:43:02 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:53:04 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:53:04 ] Dough Is Poured
+
+[ 14/05/2022 22:53:04 ] Toppings Are Added
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:53:04 ] Pizza Is Baked
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:53:04 ] Order 1 Is Ready
+
+[ 14/05/2022 22:53:04 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 22:53:04 ] The Dough Has Been Mixed
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 22:53:04 ] Dough Is Poured
+
+[ 14/05/2022 22:53:04 ] Toppings Are Added
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 22:53:04 ] Pizza Is Baked
+
+[ 14/05/2022 22:53:04 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 22:53:04 ] Order 2 Is Ready
+
+[ 14/05/2022 22:53:04 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:30:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:30:35 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:30:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:30:35 ] Dough Is Poured
+
+[ 14/05/2022 23:30:35 ] Toppings Are Added
+
+[ 14/05/2022 23:30:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:30:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:30:35 ] Pizza Is Baked
+
+[ 14/05/2022 23:30:35 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:30:35 ] Order 1 Is Ready
+
+[ 14/05/2022 23:30:35 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:32:49 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:32:49 ] Dough Is Poured
+
+[ 14/05/2022 23:32:49 ] Toppings Are Added
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:32:49 ] Pizza Is Baked
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:32:49 ] Order 1 Is Ready
+
+[ 14/05/2022 23:32:49 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:32:49 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:32:49 ] Dough Is Poured
+
+[ 14/05/2022 23:32:49 ] Toppings Are Added
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:32:49 ] Pizza Is Baked
+
+[ 14/05/2022 23:32:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:32:49 ] Order 2 Is Ready
+
+[ 14/05/2022 23:32:49 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:38:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:38:08 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:38:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:38:08 ] Dough Is Poured
+
+[ 14/05/2022 23:38:08 ] Toppings Are Added
+
+[ 14/05/2022 23:38:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:38:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:38:08 ] Pizza Is Baked
+
+[ 14/05/2022 23:38:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:38:08 ] Order 1 Is Ready
+
+[ 14/05/2022 23:38:08 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:39:21 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:39:21 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:39:21 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:39:21 ] Dough Is Poured
+
+[ 14/05/2022 23:39:21 ] Toppings Are Added
+
+[ 14/05/2022 23:39:21 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:39:21 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:39:21 ] Pizza Is Baked
+
+[ 14/05/2022 23:39:21 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:39:21 ] Order 1 Is Ready
+
+[ 14/05/2022 23:39:21 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:42:23 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:42:23 ] Dough Is Poured
+
+[ 14/05/2022 23:42:23 ] Toppings Are Added
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:42:23 ] Pizza Is Baked
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:42:23 ] Order 1 Is Ready
+
+[ 14/05/2022 23:42:23 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:42:23 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:42:23 ] Dough Is Poured
+
+[ 14/05/2022 23:42:23 ] Toppings Are Added
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:42:23 ] Pizza Is Baked
+
+[ 14/05/2022 23:42:23 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:42:23 ] Order 2 Is Ready
+
+[ 14/05/2022 23:42:23 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 14/05/2022 23:44:27 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 14/05/2022 23:44:27 ] The Dough Has Been Mixed
+
+[ 14/05/2022 23:44:27 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 14/05/2022 23:44:27 ] Dough Is Poured
+
+[ 14/05/2022 23:44:27 ] Toppings Are Added
+
+[ 14/05/2022 23:44:27 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 14/05/2022 23:44:27 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 14/05/2022 23:44:27 ] Pizza Is Baked
+
+[ 14/05/2022 23:44:27 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 14/05/2022 23:44:27 ] Order 1 Is Ready
+
+[ 14/05/2022 23:44:27 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 11:36:30 ] The Dough Has Been Mixed
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 11:36:30 ] Dough Is Poured
+
+[ 17/05/2022 11:36:30 ] Toppings Are Added
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 11:36:30 ] Pizza Is Baked
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 11:36:30 ] Order 1 Is Ready
+
+[ 17/05/2022 11:36:30 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 11:36:30 ] The Dough Has Been Mixed
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 11:36:30 ] Dough Is Poured
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 11:36:30 ] The Dough Has Been Mixed
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 11:36:30 ] Dough Is Poured
+
+[ 17/05/2022 11:36:30 ] Toppings Are Added
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 11:36:30 ] Pizza Is Baked
+
+[ 17/05/2022 11:36:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 11:36:30 ] Order 2 Is Ready
+
+[ 17/05/2022 11:36:30 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 11:47:13 ] Pizza Machine Started 
+
+[ 17/05/2022 11:47:13 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 11:47:13 ] The Dough Has Been Mixed
+
+[ 17/05/2022 11:47:13 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 11:47:13 ] Dough Is Poured
+
+[ 17/05/2022 11:47:13 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 11:47:13 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 11:47:13 ] Pizza Is Baked
+
+[ 17/05/2022 11:47:13 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 11:47:13 ] Order 1 Is Ready
+
+[ 17/05/2022 11:47:13 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 23:24:08 ] Pizza Machine Started 
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 23:24:08 ] The Dough Has Been Mixed
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 23:24:08 ] Dough Is Poured
+
+[ 17/05/2022 23:24:08 ] Toppings Are Added
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 23:24:08 ] Pizza Is Baked
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 23:24:08 ] Order 1 Is Ready
+
+[ 17/05/2022 23:24:08 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 23:24:08 ] The Dough Has Been Mixed
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 23:24:08 ] Dough Is Poured
+
+[ 17/05/2022 23:24:08 ] Toppings Are Added
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 23:24:08 ] Pizza Is Baked
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 23:24:08 ] Order 2 Is Ready
+
+[ 17/05/2022 23:24:08 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 23:24:08 ] The Dough Has Been Mixed
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 23:24:08 ] Dough Is Poured
+
+[ 17/05/2022 23:24:08 ] The capacity of ingredients does not fit the remaining capacity of the Pan, Try Again.
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 23:24:08 ] The Dough Has Been Mixed
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 23:24:08 ] Dough Is Poured
+
+[ 17/05/2022 23:24:08 ] Toppings Are Added
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 23:24:08 ] Pizza Is Baked
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 23:24:08 ] Order 3 Is Ready
+
+[ 17/05/2022 23:24:08 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 23:24:08 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 23:24:08 ] The Dough Has Been Mixed
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 23:24:08 ] Dough Is Poured
+
+[ 17/05/2022 23:24:08 ] Toppings Are Added
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 17/05/2022 23:24:08 ] Pizza Is Baked
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 17/05/2022 23:24:08 ] Order 4 Is Ready
+
+[ 17/05/2022 23:24:08 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 17/05/2022 23:24:08 ] The Dough Has Been Mixed
+
+[ 17/05/2022 23:24:08 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 17/05/2022 23:24:08 ] Dough Is Poured
+
+[ 17/05/2022 23:24:08 ] The capacity of ingredients does not fit the remaining capacity of the Pan, Try Again.
+
+[ 19/05/2022 00:07:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 19/05/2022 00:07:55 ] The Dough Has Been Mixed
+
+[ 19/05/2022 00:07:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 19/05/2022 00:07:55 ] Dough Is Poured
+
+[ 19/05/2022 00:07:55 ] Toppings Are Added
+
+[ 19/05/2022 00:07:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 19/05/2022 00:07:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 19/05/2022 00:07:55 ] Pizza Is Baked
+
+[ 19/05/2022 00:07:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 19/05/2022 00:07:55 ] Order 1 Is Ready
+
+[ 19/05/2022 00:07:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 26/05/2022 09:54:03 ] The Dough Has Been Mixed
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 26/05/2022 09:54:03 ] Dough Is Poured
+
+[ 26/05/2022 09:54:03 ] Toppings Are Added
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 26/05/2022 09:54:03 ] Pizza Is Baked
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 26/05/2022 09:54:03 ] Order 1 Is Ready
+
+[ 26/05/2022 09:54:03 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 26/05/2022 09:54:03 ] The Dough Has Been Mixed
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 26/05/2022 09:54:03 ] Dough Is Poured
+
+[ 26/05/2022 09:54:03 ] Toppings Are Added
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 26/05/2022 09:54:03 ] Pizza Is Baked
+
+[ 26/05/2022 09:54:03 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 26/05/2022 09:54:03 ] Order 2 Is Ready
+
+[ 26/05/2022 09:54:03 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 09:55:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:55:44 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:55:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:55:44 ] Dough Is Poured
+
+[ 27/05/2022 09:55:44 ] Toppings Are Added
+
+[ 27/05/2022 09:55:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 09:55:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 09:55:44 ] Pizza Is Baked
+
+[ 27/05/2022 09:55:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 09:55:44 ] Order 1 Is Ready
+
+[ 27/05/2022 09:55:44 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:56:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:56:55 ] Dough Is Poured
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:56:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:56:55 ] Dough Is Poured
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:56:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:56:55 ] Dough Is Poured
+
+[ 27/05/2022 09:56:55 ] Toppings Are Added
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 09:56:55 ] Pizza Is Baked
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 09:56:55 ] Order 1 Is Ready
+
+[ 27/05/2022 09:56:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:56:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:56:55 ] Dough Is Poured
+
+[ 27/05/2022 09:56:55 ] Toppings Are Added
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 09:56:55 ] Pizza Is Baked
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 09:56:55 ] Order 2 Is Ready
+
+[ 27/05/2022 09:56:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:56:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:56:55 ] Dough Is Poured
+
+[ 27/05/2022 09:56:55 ] Toppings Are Added
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 09:56:55 ] Pizza Is Baked
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 09:56:55 ] Order 3 Is Ready
+
+[ 27/05/2022 09:56:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 09:56:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 09:56:55 ] Dough Is Poured
+
+[ 27/05/2022 09:56:55 ] Toppings Are Added
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 09:56:55 ] Pizza Is Baked
+
+[ 27/05/2022 09:56:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 09:56:55 ] Order 4 Is Ready
+
+[ 27/05/2022 09:56:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 09:56:55 ] Sorry. No Enough IngredientsTo Prepare Your Order. Come Back After 10 Minutes
+
+[ 27/05/2022 11:51:42 ] Pizza Machine Started 
+
+[ 27/05/2022 11:51:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 11:51:42 ] The Dough Has Been Mixed
+
+[ 27/05/2022 11:51:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 11:51:42 ] Dough Is Poured
+
+[ 27/05/2022 11:51:42 ] Toppings Are Added
+
+[ 27/05/2022 11:51:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 11:51:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 11:51:42 ] Pizza Is Baked
+
+[ 27/05/2022 11:51:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 11:51:42 ] Order 1 Is Ready
+
+[ 27/05/2022 11:51:42 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 12:24:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 12:24:55 ] The Dough Has Been Mixed
+
+[ 27/05/2022 12:24:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 12:24:55 ] Dough Is Poured
+
+[ 27/05/2022 12:24:55 ] Toppings Are Added
+
+[ 27/05/2022 12:24:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 12:24:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 12:24:55 ] Pizza Is Baked
+
+[ 27/05/2022 12:24:55 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 12:24:55 ] Order 1 Is Ready
+
+[ 27/05/2022 12:24:55 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 12:26:12 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 12:26:12 ] The Dough Has Been Mixed
+
+[ 27/05/2022 12:26:12 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 12:26:12 ] Dough Is Poured
+
+[ 27/05/2022 12:26:12 ] Toppings Are Added
+
+[ 27/05/2022 12:26:12 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 12:26:12 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 12:26:12 ] Pizza Is Baked
+
+[ 27/05/2022 12:26:12 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 12:26:12 ] Order 1 Is Ready
+
+[ 27/05/2022 12:26:12 ] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[ 27/05/2022 14:16:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 14:16:44 ] The Dough Has Been Mixed
+
+[ 27/05/2022 14:16:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 14:16:44 ] Dough Is Poured
+
+[ 27/05/2022 14:16:44 ] Toppings Are Added
+
+[ 27/05/2022 14:16:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 14:16:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 14:16:44 ] Pizza Is Baked
+
+[ 27/05/2022 14:16:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 14:16:44 ] Order 1 Is Ready
+
+[ 27/05/2022 14:16:44 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 14:23:43 ] Data Has Been Retrieved From Database Successfully
+
+[ 27/05/2022 14:32:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 14:32:02 ] The Dough Has Been Mixed
+
+[ 27/05/2022 14:32:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 14:32:02 ] Dough Is Poured
+
+[ 27/05/2022 14:32:02 ] Toppings Are Added
+
+[ 27/05/2022 14:32:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 14:32:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 14:32:02 ] Pizza Is Baked
+
+[ 27/05/2022 14:32:02 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 14:32:02 ] Order 1 Is Ready
+
+[ 27/05/2022 14:32:02 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 15:06:40 ] Data Has Been Retrieved From Database Successfully
+
+[ 27/05/2022 17:19:42 ] Pizza Machine Started 
+
+[ 27/05/2022 17:19:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 17:19:42 ] The Dough Has Been Mixed
+
+[ 27/05/2022 17:19:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 17:19:42 ] Dough Is Poured
+
+[ 27/05/2022 17:19:42 ] Toppings Are Added
+
+[ 27/05/2022 17:19:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 17:19:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 17:19:42 ] Pizza Is Baked
+
+[ 27/05/2022 17:19:42 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 17:19:42 ] Enter Valid Number Of Slices , Try Again.
+
+[ 27/05/2022 17:19:42 ] Order 1 Is Ready
+
+[ 27/05/2022 17:19:42 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 17:24:33 ] The Dough Has Been Mixed
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 17:24:33 ] Dough Is Poured
+
+[ 27/05/2022 17:24:33 ] Toppings Are Added
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 17:24:33 ] Pizza Is Baked
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 17:24:33 ] Order 1 Is Ready
+
+[ 27/05/2022 17:24:33 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 17:24:33 ] The Dough Has Been Mixed
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 17:24:33 ] Dough Is Poured
+
+[ 27/05/2022 17:24:33 ] Toppings Are Added
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 17:24:33 ] Pizza Is Baked
+
+[ 27/05/2022 17:24:33 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 17:24:33 ] Order 2 Is Ready
+
+[ 27/05/2022 17:24:33 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 17:52:43 ] Pizza Machine Started 
+
+[ 27/05/2022 17:52:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 17:52:43 ] The Dough Has Been Mixed
+
+[ 27/05/2022 17:52:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 17:52:43 ] Dough Is Poured
+
+[ 27/05/2022 17:52:43 ] Toppings Are Added
+
+[ 27/05/2022 17:52:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 17:52:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 17:52:43 ] Pizza Is Baked
+
+[ 27/05/2022 17:52:43 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 17:52:43 ] Order 1 Is Ready
+
+[ 27/05/2022 17:52:43 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 17:55:17 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 17:55:17 ] The Dough Has Been Mixed
+
+[ 27/05/2022 17:55:17 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 17:55:17 ] Dough Is Poured
+
+[ 27/05/2022 17:55:17 ] Toppings Are Added
+
+[ 27/05/2022 17:55:17 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 17:55:17 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 17:55:17 ] Pizza Is Baked
+
+[ 27/05/2022 17:55:17 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 17:55:17 ] Order 1 Is Ready
+
+[ 27/05/2022 17:55:17 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 18:37:49 ] Pizza Machine Started 
+
+[ 27/05/2022 18:37:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 18:37:49 ] The Dough Has Been Mixed
+
+[ 27/05/2022 18:37:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 18:37:49 ] Dough Is Poured
+
+[ 27/05/2022 18:37:49 ] Toppings Are Added
+
+[ 27/05/2022 18:37:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 18:37:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 18:37:49 ] Pizza Is Baked
+
+[ 27/05/2022 18:37:49 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 18:37:49 ] Order 1 Is Ready
+
+[ 27/05/2022 18:37:49 ] Data Has Been Transerred To Database Successfully
+
+[ 27/05/2022 18:41:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 27/05/2022 18:41:01 ] The Dough Has Been Mixed
+
+[ 27/05/2022 18:41:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 27/05/2022 18:41:01 ] Dough Is Poured
+
+[ 27/05/2022 18:41:01 ] Toppings Are Added
+
+[ 27/05/2022 18:41:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 27/05/2022 18:41:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 27/05/2022 18:41:01 ] Pizza Is Baked
+
+[ 27/05/2022 18:41:01 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 27/05/2022 18:41:01 ] Order 1 Is Ready
+
+[ 27/05/2022 18:41:01 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 09:24:44 ] Pizza Machine Started 
+
+[ 28/05/2022 09:24:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 09:24:44 ] The Dough Has Been Mixed
+
+[ 28/05/2022 09:24:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 09:24:44 ] Dough Is Poured
+
+[ 28/05/2022 09:24:44 ] Toppings Are Added
+
+[ 28/05/2022 09:24:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 09:24:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 09:24:44 ] Pizza Is Baked
+
+[ 28/05/2022 09:24:44 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 09:24:44 ] Order 1 Is Ready
+
+[ 28/05/2022 09:24:44 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 09:26:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 09:26:28 ] The Dough Has Been Mixed
+
+[ 28/05/2022 09:26:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 09:26:28 ] Dough Is Poured
+
+[ 28/05/2022 09:26:28 ] Toppings Are Added
+
+[ 28/05/2022 09:26:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 09:26:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 09:26:28 ] Pizza Is Baked
+
+[ 28/05/2022 09:26:28 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 09:26:28 ] Order 1 Is Ready
+
+[ 28/05/2022 09:26:28 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 10:38:30 ] Pizza Machine Started 
+
+[ 28/05/2022 10:38:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:38:30 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:38:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:38:30 ] Dough Is Poured
+
+[ 28/05/2022 10:38:30 ] Toppings Are Added
+
+[ 28/05/2022 10:38:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:38:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:38:30 ] Pizza Is Baked
+
+[ 28/05/2022 10:38:30 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:40:46 ] Pizza Machine Started 
+
+[ 28/05/2022 10:40:46 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:40:46 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:40:46 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:40:46 ] Dough Is Poured
+
+[ 28/05/2022 10:40:46 ] Toppings Are Added
+
+[ 28/05/2022 10:40:46 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:40:46 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:40:46 ] Pizza Is Baked
+
+[ 28/05/2022 10:40:46 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:40:46 ] Enter Valid Number Of Slices , Try Again.
+
+[ 28/05/2022 10:40:46 ] Order 1 Is Ready
+
+[ 28/05/2022 10:40:46 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 10:42:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:42:53 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:42:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:42:53 ] Dough Is Poured
+
+[ 28/05/2022 10:42:53 ] Toppings Are Added
+
+[ 28/05/2022 10:42:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:42:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:42:53 ] Pizza Is Baked
+
+[ 28/05/2022 10:42:53 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:42:53 ] Order 1 Is Ready
+
+[ 28/05/2022 10:42:53 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 10:46:05 ] Pizza Machine Started 
+
+[ 28/05/2022 10:46:05 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:46:05 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:46:05 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:46:05 ] Dough Is Poured
+
+[ 28/05/2022 10:46:05 ] Toppings Are Added
+
+[ 28/05/2022 10:46:05 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:46:05 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:46:05 ] Pizza Is Baked
+
+[ 28/05/2022 10:46:05 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:46:05 ] Order 1 Is Ready
+
+[ 28/05/2022 10:46:05 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 10:51:15 ] Pizza Machine Started 
+
+[ 28/05/2022 10:51:15 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:51:15 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:51:15 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:51:15 ] Dough Is Poured
+
+[ 28/05/2022 10:51:15 ] Toppings Are Added
+
+[ 28/05/2022 10:51:15 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:51:15 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:51:15 ] Pizza Is Baked
+
+[ 28/05/2022 10:51:15 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:51:15 ] Enter Valid Number Of Slices , Try Again.
+
+[ 28/05/2022 10:51:15 ] Order 1 Is Ready
+
+[ 28/05/2022 10:51:15 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:53:07 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:53:07 ] Dough Is Poured
+
+[ 28/05/2022 10:53:07 ] Toppings Are Added
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:53:07 ] Pizza Is Baked
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:53:07 ] Order 1 Is Ready
+
+[ 28/05/2022 10:53:07 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 10:53:07 ] The Dough Has Been Mixed
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 10:53:07 ] Dough Is Poured
+
+[ 28/05/2022 10:53:07 ] Toppings Are Added
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 10:53:07 ] Pizza Is Baked
+
+[ 28/05/2022 10:53:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 10:53:07 ] Order 2 Is Ready
+
+[ 28/05/2022 10:53:07 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 14:02:24 ] Pizza Machine Started 
+
+[ 28/05/2022 14:02:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 14:02:24 ] The Dough Has Been Mixed
+
+[ 28/05/2022 14:02:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 14:02:24 ] Dough Is Poured
+
+[ 28/05/2022 14:02:24 ] Toppings Are Added
+
+[ 28/05/2022 14:02:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 14:02:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 14:02:24 ] Pizza Is Baked
+
+[ 28/05/2022 14:02:24 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 14:02:24 ] Enter Valid Number Of Slices , Try Again.
+
+[ 28/05/2022 14:02:24 ] Order 1 Is Ready
+
+[ 28/05/2022 14:02:24 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 14:04:07 ] The Dough Has Been Mixed
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 14:04:07 ] Dough Is Poured
+
+[ 28/05/2022 14:04:07 ] Toppings Are Added
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 14:04:07 ] Pizza Is Baked
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 14:04:07 ] Order 1 Is Ready
+
+[ 28/05/2022 14:04:07 ] Data Has Been Transerred To Database Successfully
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Mixer]
+
+[ 28/05/2022 14:04:07 ] The Dough Has Been Mixed
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Dough]
+
+[ 28/05/2022 14:04:07 ] Dough Is Poured
+
+[ 28/05/2022 14:04:07 ] Toppings Are Added
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pan]
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Oven]
+
+[ 28/05/2022 14:04:07 ] Pizza Is Baked
+
+[ 28/05/2022 14:04:07 ] Object Has Been Transferred To File Succcessfully [javaprojectpizza.Pizza]
+
+[ 28/05/2022 14:04:07 ] Order 2 Is Ready
+
+[ 28/05/2022 14:04:07 ] Data Has Been Transerred To Database Successfully
+
